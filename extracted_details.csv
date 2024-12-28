@@ -1,0 +1,2 @@
+Class Name,Area,Perimeter,Major Axis Length,Minor Axis Length,Aspect Ratio,Bounding Box Aspect Ratio,Circularity,Centroid,Bounding Box,Eccentricity,Solidity,Convex Area
+crack,7464.0,679.9036790187179,347.44393850432385,34.008088064553604,10.216509021172003,0.8155737704918032,0.20290217963989862,"(np.float64(422.7674169346195), np.float64(468.6367899249732))","(298, 378, 542, 577)",0.9951981463263696,0.6935513845010222,10762.0

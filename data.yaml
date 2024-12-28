@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/POC2/train
+val: /content/drive/MyDrive/POC2/valid
+
+nc: 1
+names: ['crack']
+
